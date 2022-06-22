@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MansourAlnuaimi.
-- ✨ Interested in web development and software development.
+<!-- - ✨ Interested in web development and software development. -->
 - 🌱 I’m currently a computer engineering student at UAEU.
 <!--
 - 📫 How to reach me ...
